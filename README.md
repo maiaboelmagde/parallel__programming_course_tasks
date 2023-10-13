@@ -1,1 +1,1 @@
-this rapo contains parallel programming course tasks solotions
+This repo contains parallel programming course tasks solotions
