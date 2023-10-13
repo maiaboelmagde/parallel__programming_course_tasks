@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697224844 source:/home/mai/Desktop/parallel__programming_course_tasks/User_Athentication_and_Registeration/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
